@@ -1,7 +1,6 @@
 body {
-  background-image:
-    linear-gradient (rgba(0, 0, 0, 0.6),
-      rgba(0, 0, 0, 0.6)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7),
+      rgba(0, 0, 0, 0.7)),
     url(./img/pinned-sticky-notes-on-light-surface-flat-lay.jpg);
   background-repeat: no-repeat;
   background-size: cover;
